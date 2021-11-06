@@ -19,4 +19,4 @@
 - HTML
 - CSS
 - pygame
-- "<algorithm>"
+- <algorithm>
