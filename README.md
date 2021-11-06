@@ -12,11 +12,11 @@
 <hr>
 
 <h4>My skils and knowledge:</h4>
+
 - Python
 - C++
 - C#
 - HTML
 - CSS
-- Pygame
-- <algorithm>
-- 
+- pygame
+- "<algorithm>"
