@@ -19,4 +19,5 @@
 - HTML
 - CSS
 - pygame
-- <algorithm>
+- Algorithms 
+- Data structures
