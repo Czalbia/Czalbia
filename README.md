@@ -11,8 +11,12 @@
 <hr>
 
 <h3>Languages</h3>
+
 - HTML
 - CSS
 - JavaScript
 - Python
 - C++
+
+
+<hr>
