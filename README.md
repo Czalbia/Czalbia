@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<h1>Let me introduce myself:</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+geeek;Rubik's+cube+solver;High+school+student;Physics+enjoyer;Mathematics+enjoyer)](https://git.io/typing-svg)
 
 <br/>
