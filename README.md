@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+geeek;Rubik's+cube+;High+school+student;Physics+enjoyer;Mathematics+enjoyer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+geeek;Rubik's+cube+solver;High+school+student;Physics+enjoyer;Mathematics+enjoyer)](https://git.io/typing-svg)
 
 <p> <img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif" height="80" style="float:right; margin:40px"></p>
 
