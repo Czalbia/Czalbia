@@ -18,5 +18,15 @@
 - Python
 - C++
 
+<hr>
+
+<h3>More things</h3>
+
+- Linux 
+- Windows
+- Git
+- Pygame
+- Algorithms 
+- Data Science
 
 <hr>
