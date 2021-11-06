@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+geeek;Rubik's+cube+;High+school+student;Physics+enjoyer;Mathematics+enjoyer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on my Tic-tac-toe game
 - 🌱 I’m currently learning Python Qiskit
