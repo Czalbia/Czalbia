@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Python Qiskit
 - 👯 I’m looking to collaborate on small and beginner-friendly projects
 - 🤔 I’m looking for help with getting some time off school
-- 📫 How to reach me: dm me on Instagram @czalbini
 
 <hr>
 
