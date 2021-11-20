@@ -15,7 +15,7 @@
 - CSS
 - Python
 - C++
-
+- ~C#~
 <hr>
 
 <h3>More things</h3>
