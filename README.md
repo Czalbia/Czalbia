@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&size=20&color=%2336BCF7&lines=Computer+geeek;Cuber;High+school+student;Physics+enjoyer;Mathematics+enjoyer)](https://git.io/typing-svg)
 - 🔭 I’m currently working on my Air Pollution Filtering System(its finished)
-- 🌱 I’m currently learning Simple Electronic circuits with Arduino 
+- 🌱 I’m currently learning Simple Electronic circuits with Arduino and OpenGL 
 - 👯 I’m looking to collaborate on small and beginner-friendly projects
 - 🤔 I’m looking for help with getting some time off school
 
