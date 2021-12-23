@@ -18,7 +18,7 @@
 - ~C#
 <hr>
 
-<h3>More things</h3>
+<h3>More stuff that I know how to use</h3>
 
 - Linux 
 - Windows
