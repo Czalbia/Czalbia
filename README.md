@@ -23,8 +23,14 @@
 - Linux 
 - Windows
 - Git
-- Pygame
+- A lot of Python modules
 - Algorithms 
 - Data Science
+- ~SFML
+- Blender
+- Raspberry PI
+- Arduino
+- Basic electronics
+- stackoverflow ;)
 
 <hr>
