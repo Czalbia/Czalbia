@@ -27,6 +27,12 @@
 - Data Science
 - ~SFML
 - Blender
-- stackoverflow ;)
+- stackoverflow ( ͡° ͜ʖ ͡°)
 
 <hr>
+
+<h3>Github Stats</h3>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Czalbia)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>
